@@ -27,7 +27,7 @@
 以币安为例
 
 - 币安: [https://accounts.binance.com/register?ref=964176568](https://accounts.binance.com/register?ref=964176568)
-- Bitget: [https://www.bitget.fit/zh-CN/referral/register?clacCode=H50CVPQU&from=%2Fzh-CN%2Fevents%2Fcoin-buddy&source=events&utmSource=CoinBuddy](https://www.bitget.fit/zh-CN/referral/register?clacCode=H50CVPQU&from=%2Fzh-CN%2Fevents%2Fcoin-buddy&source=events&utmSource=CoinBuddy)
+- Bitget: [https://share.glassgs.com/u/3RQZ3VUU](https://share.glassgs.com/u/3RQZ3VUU)
 
 ## 填写邀请码教程
 
