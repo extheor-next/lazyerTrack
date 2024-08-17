@@ -2,10 +2,12 @@
 
 币安、Bitget 跟单网站，免费实时跟单，可以跟随满人车
 
-# 懒人跟单 1.0
+# 懒人跟单 2.0
 
 [http://lazyertrack.lijiazhao.top/](http://lazyertrack.lijiazhao.top/)
 
+- 独家解密币安内部 api
+- 支持无延迟跟单隐藏仓位
 - 支持平台：目前支持在币安和 Bitget 两个平台做单
 - 带单员所在平台：币安
 - 仓位是否隐藏：必须是能看到的仓位才行
